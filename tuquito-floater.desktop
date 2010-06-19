@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Floating Tuquito
+Comment=Tuquito logo floating around the screen
+Exec=floaters -n 25 /usr/share/pixmaps/tuquito-logo.png
+TryExec=floaters
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GNOME;Screensaver;
+OnlyShowIn=GNOME;
+X-Ubuntu-Gettext-Domain=gnome-screensaver

@@ -1,0 +1,13 @@
+Source: tuquito-screensaver
+Section: gnome
+Priority: extra
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 5), cdbs
+Standards-Version: 3.7.2
+
+Package: tuquito-screensaver
+Architecture: all
+Depends: gnome-screensaver
+Description: Tuquito screensaver
+ This package contains the Tuquito screensaver.
+ * Tuquito Team! - 2010
